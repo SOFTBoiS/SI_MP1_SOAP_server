@@ -1,8 +1,8 @@
 # SI_MP1_SOAP_SERVER
 
 ## Requirements
-API key to pexels.com
-Visual studio 2019 
+API key to pexels.com  
+Visual studio 2019   
 .Net framework 4.7.2 or higher
 
 ## Steps to run program
